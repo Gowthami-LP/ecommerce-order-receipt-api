@@ -1,0 +1,9 @@
+venv/
+**pycache**/
+*.py[cod]
+.env
+.pytest_cache/
+.vscode/
+
+# Keep requirements.txt tracked
+!requirements.txt
